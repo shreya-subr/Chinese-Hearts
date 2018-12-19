@@ -1,0 +1,1 @@
+(** Main is the module to run the game and handle printing. *)
